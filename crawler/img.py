@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+'''from bs4 import BeautifulSoup
 import requests
 
 url = 'https://www.tripadvisor.co.uk/Attractions-g186338-Activities-London_England.html'
@@ -13,3 +13,9 @@ for title,img in zip(titles,imgs):
 
         }
     print(data)
+'''
+
+
+x = "sss/"
+x.replace("s", "d")
+print(x)
